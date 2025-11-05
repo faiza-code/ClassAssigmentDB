@@ -1,25 +1,25 @@
---CREATE DATABASE OmanClinic;
---USE OmanClinic;
+CREATE DATABASE OmanClinic;
+USE OmanClinic;
 
---CREATE TABLE Doctors(
---Doctors_ID bigint primary key identity(1,1),
---First_Name nvarchar(90) not null,
---Last_Name nvarchar(90) not null,
---Specialty nvarchar(60) not null
---);
+CREATE TABLE Doctors(
+Doctors_ID bigint primary key identity(1,1),
+First_Name nvarchar(90) not null,
+Last_Name nvarchar(90) not null,
+Specialty nvarchar(60) not null
+);
 
---SET IDENTITY_INSERT Doctors ON;  
+SET IDENTITY_INSERT Doctors ON;  
 
---INSERT into Doctors (Doctors_ID, First_Name, Last_Name, Specialty)
---values(1, 'Amal', 'Al salimai', 'Pediatrics')
+INSERT into Doctors (Doctors_ID, First_Name, Last_Name, Specialty)
+values(1, 'Amal', 'Al salimai', 'Pediatrics')
 
---INSERT into Doctors (Doctors_ID, First_Name, Last_Name, Specialty)
---values(2, 'faiza', 'Al Hanthali', 'Cardiology')
+INSERT into Doctors (Doctors_ID, First_Name, Last_Name, Specialty)
+values(2, 'faiza', 'Al Hanthali', 'Cardiology')
 
---INSERT into Doctors (Doctors_ID, First_Name, Last_Name, Specialty)
---values(3, 'Asma', 'Al alawi', 'Dermatology')
+INSERT into Doctors (Doctors_ID, First_Name, Last_Name, Specialty)
+values(3, 'Asma', 'Al alawi', 'Dermatology')
 
---SET IDENTITY_INSERT Doctors OFF;  
+SET IDENTITY_INSERT Doctors OFF;  
 
 
 SET IDENTITY_INSERT Patients ON;
@@ -55,15 +55,15 @@ Patient_ID bigint foreign key references Patients(Patient_ID),
 Doctor_ID bigint foreign key references Doctors(Doctors_ID)
 );
 
---SET IDENTITY_INSERT Appointments ON;
+SET IDENTITY_INSERT Appointments ON;
 
---INSERT into Appointments (Appointments_ID, App_Date, App_Time)
---values(1, '2015-5-6', '20:55')
+INSERT into Appointments (Appointments_ID, App_Date, App_Time)
+values(1, '2015-5-6', '20:55')
 
---INSERT into Appointments (Appointments_ID, App_Date, App_Time)
---values(2, '2015-9-8', '20:55')
+INSERT into Appointments (Appointments_ID, App_Date, App_Time)
+values(2, '2015-9-8', '20:55')
 
---INSERT into Appointments (Appointments_ID, App_Date, App_Time)
---values(3, '2025-10-8', '9:55')
+INSERT into Appointments (Appointments_ID, App_Date, App_Time)
+values(3, '2025-10-8', '9:55')
 
---SET IDENTITY_INSERT Appointments OFF;  
+SET IDENTITY_INSERT Appointments OFF;  

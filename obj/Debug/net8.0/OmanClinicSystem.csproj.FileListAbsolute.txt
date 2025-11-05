@@ -1,0 +1,14 @@
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\bin\Debug\net8.0\OmanClinicSystem.exe
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\bin\Debug\net8.0\OmanClinicSystem.deps.json
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\bin\Debug\net8.0\OmanClinicSystem.runtimeconfig.json
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\bin\Debug\net8.0\OmanClinicSystem.dll
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\bin\Debug\net8.0\OmanClinicSystem.pdb
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.AssemblyInfoInputs.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.AssemblyInfo.cs
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.dll
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\refint\OmanClinicSystem.dll
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.pdb
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.genruntimeconfig.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\ref\OmanClinicSystem.dll

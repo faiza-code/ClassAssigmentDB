@@ -12,3 +12,4 @@ C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanCli
 C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.pdb
 C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.genruntimeconfig.cache
 C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\ref\OmanClinicSystem.dll
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\OmanClinicSystem\obj\Debug\net8.0\OmanClinicSystem.sourcelink.json

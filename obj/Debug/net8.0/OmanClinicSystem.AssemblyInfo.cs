@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OmanClinicSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9b38212604b22ebc9a7ee16d35f1af0d730d259")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e58b1d0319aca1354529fe39cb3761d40b9f4747")]
 [assembly: System.Reflection.AssemblyProductAttribute("OmanClinicSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmanClinicSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
